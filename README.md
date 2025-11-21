@@ -1,4 +1,4 @@
-## 👋 Python Backend Developer --- Automation, APIs & Data Tools
+## Python Backend Developer Automation, APIs & Data Tools
 
 I build small but effective backend tools to automate tasks, process
 data, and simplify operations.\
@@ -31,4 +31,3 @@ through lightweight automation.
 
 If you're building something and think I can help, I'm always open to
 collaborating.\
-Let's build smart tools --- not complicated ones.
