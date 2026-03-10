@@ -1,33 +1,30 @@
-## Python Backend Developer Automation, APIs & Data Tools
+## Python Backend Developer — Automation, APIs, Data & AI Workflows
 
-I build small but effective backend tools to automate tasks, process
-data, and simplify operations.
-My goal is to help founders, small teams, and developers save time by
-turning repetitive work into clean, reliable scripts.
+I build reliable backend tools that automate operations, reduce manual work,
+and improve execution speed for small teams and growing businesses.
+
+I help founders and teams turn repetitive tasks into clean, maintainable
+systems they can actually use every day.
 
 ### 🔧 What I work on
 
--   ⚙️ **Automation & internal tools** - back-office workflows,
-    repetitive tasks, SaaS integrations
--   🧠 **API development** - FastAPI, Express.js
--   🕷️ **Web scraping & data extraction** - Selenium, BeautifulSoup
--   📊 **Data processing** - CSV, Excel, Google Sheets
--   🛠️ **Custom scripts & bots** - small utilities to make daily
-    operations easier
+- ⚙️ **Automation & internal tools** — back-office workflows, repetitive operations, SaaS integrations
+- 🌐 **API engineering** — REST APIs, third-party integrations, undocumented public API reverse engineering
+- 🕷️ **Web scraping & monitoring** — structured extraction, tracking, and alerting
+- 📊 **Data pipelines** — CSV/Excel/Google Sheets processing, transformation, and reporting
+- 🤖 **LLM & agentic systems** — AI-powered assistants and workflow orchestration for documentation, project tracking, and technical execution
 
 ### ⭐ What you can expect from me
 
--   ✅ Clear, straightforward communication
--   ✅ Clean and maintainable code
--   ✅ Simple documentation + easy handover
--   ✅ Adaptable: one-off scripts or small automation systems
+- ✅ Clear, direct communication
+- ✅ Clean and maintainable code
+- ✅ Practical documentation + smooth handover
+- ✅ Flexible scope: one-off scripts or complete lightweight automation systems
 
-### 💡 Bonus
+### 💡 Approach
 
-I also like improving workflows and making processes more efficient
-through lightweight automation.
+I focus on practical outcomes: fewer manual tasks, fewer errors, faster operations.
 
-------------------------------------------------------------------------
+---
 
-If you're building something and think I can help, I'm always open to
-collaborating.
+If you're building something and need a backend/automation partner, feel free to reach out.
